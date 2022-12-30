@@ -1,6 +1,6 @@
-# playground
+# XY Plotter
 
-A new Flutter project.
+A simple XY Plotter using pluto_grid and fl_chart
 
 ## Getting Started
 
